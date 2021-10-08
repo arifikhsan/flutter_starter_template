@@ -5,8 +5,8 @@
 // license that can be found in the LICENSE file or at
 // https://opensource.org/licenses/MIT.
 
-import 'package:flutter_starter_template/app/app.dart';
-import 'package:flutter_starter_template/counter/counter.dart';
+import 'package:flutter_starter_template/app/view/app.dart';
+import 'package:flutter_starter_template/app/view/counter/view/counter_page.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

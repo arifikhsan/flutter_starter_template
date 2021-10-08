@@ -5,4 +5,9 @@
 // license that can be found in the LICENSE file or at
 // https://opensource.org/licenses/MIT.
 
-export 'view/app.dart';
+import 'package:flutter_starter_template/app/view/app.dart';
+import 'package:flutter_starter_template/bootstrap.dart';
+
+void main() {
+  bootstrap(() => const App());
+}
