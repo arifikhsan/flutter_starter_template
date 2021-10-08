@@ -8,8 +8,8 @@
 import 'package:bloc_test/bloc_test.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_starter_template/app/view/counter/cubit/counter_cubit.dart';
-import 'package:flutter_starter_template/app/view/counter/view/counter_page.dart';
+import 'package:flutter_starter_template/app/state/counter_cubit.dart';
+import 'package:flutter_starter_template/app/view/counter/counter_page.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 

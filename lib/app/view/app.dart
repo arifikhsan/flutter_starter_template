@@ -7,7 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
-import 'package:flutter_starter_template/app/view/counter/view/counter_page.dart';
+import 'package:flutter_starter_template/app/view/counter/counter_page.dart';
 import 'package:flutter_starter_template/l10n/l10n.dart';
 
 class App extends StatelessWidget {

@@ -7,7 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_starter_template/app/view/counter/cubit/counter_cubit.dart';
+import 'package:flutter_starter_template/app/state/counter_cubit.dart';
 import 'package:flutter_starter_template/l10n/l10n.dart';
 
 class CounterPage extends StatelessWidget {
